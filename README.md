@@ -91,5 +91,3 @@ Curso Engenharia Computacional na UFJF, trabalho como estagiária na Prefeitura 
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4C1D95,50:6D28D9,100:2E1065&height=70" width="100%"/>
